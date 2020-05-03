@@ -1,0 +1,5 @@
+name: IslandTop
+version: 1.0.0
+main: nl.itz_kiwisap.skyfarers.islandtop.Main
+author: itz_KiwiSap
+depend: [ASkyBlock]
