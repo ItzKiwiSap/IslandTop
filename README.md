@@ -1,3 +1,3 @@
 # IslandTop
 
-Een island top plugin voor SkyFarers, deze is gemaakt met de api van ASkyblock / BSkyblock
+An Island top plugin for the server Skyfarers, this plugin is made with the api from ASkyblock / BSkyblock.
